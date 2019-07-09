@@ -1,7 +1,7 @@
 
 ## Initial Development Environment to work with Python, Flask and MongoDB
 
-It uses **Docker-compose**:
+It uses ***Docker-compose***:
 Compose is a tool for defining and running complex applications with Docker. With Compose, you define a multi-container application in a single file, then spin your application up in a single command which does everything that needs to be done to get it running.
 
 https://docs.docker.com/compose/install/
